@@ -12,9 +12,6 @@
  * @property {string[]} highlights - plain text highlights of the position (bulleted list)
  */
 const work = [
-<<<<<<< HEAD
-
-
   {
     name: 'Advisions Research and Development Private Limited (Advisions)',
     position: 'Software Developer',
@@ -45,14 +42,11 @@ const work = [
 - **Nginx:** Configured Nginx for optimal request routing and handling.`,
 
   },
-=======
->>>>>>> 08e17c8 (first commit)
   {
     name: 'Badlav Seva Samiti',
     position: 'Web Developer',
     url: 'https://smileidentity.com',
     startDate: '2023-12-01',
-<<<<<<< HEAD
     endDate : "2024-01-01",
     summary: `As a Web Developer Intern, I actively contributed to the creation of innovative web solutions, gaining hands-on experience in
      coding, debugging, and collaborating with cross-functional teams. Successfully applied and expanded my knowledge of HTML, CSS, and
@@ -65,21 +59,7 @@ const work = [
       'Demonstrated commitment to continuous learning and staying abreast of industry trends for optimal skill enhancement.',
     ],
   },
-
-=======
-    summary: `As a Web Developer Intern, I actively contributed to the creation of innovative web solutions, gaining hands-on experience in
-     coding, debugging, and collaborating with cross-functional teams. Successfully applied and expanded my knowledge of HTML, CSS, and
-      JavaScript, while working on real-world projects. Proactively tackled challenges, demonstrating a strong commitment to continuous 
-      learning and a passion for creating seamless online experiences`,
-    highlights: [
-      'Collaborated with a dynamic team of developers to contribute to the design, development, and maintenance of responsive and visually appealing websites. Utilized HTML, CSS, and JavaScript to implement innovative features and enhance user interfaces. ',
-      'Engaged in problem-solving and debugging activities, fostering a deep understanding of web development principles.',
-      'Actively participated in agile development processes, ensuring timely project delivery. ',
-      'Demonstrated commitment to continuous learning and staying abreast of industry trends for optimal skill enhancement.',
-    ],
-  },
  
->>>>>>> 08e17c8 (first commit)
 ];
 
 export default work;
